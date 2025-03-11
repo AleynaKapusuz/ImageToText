@@ -1,5 +1,8 @@
 # ImageToText
 
+![Image](https://github.com/user-attachments/assets/8413b15e-a4c2-4609-aba1-0675412e5e3b)
+
+
 Installing Tesseract-OCR on Windows
 Download Tesseract-OCR from the following link:
 

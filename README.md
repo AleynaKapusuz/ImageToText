@@ -32,7 +32,7 @@ Grayscale Image:
 
 `gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)`
 
-![Image](https://github.com/user-attachments/assets/cae24910-20e2-437e-87c9-08246b580e5d)
+![Image](https://github.com/user-attachments/assets/b10d4157-b542-4a97-a7c1-9e769b275142)
 
 
 Extracted Text:
@@ -40,6 +40,6 @@ Extracted Text:
 `for x, y, text in sorted_list:
     print(text.strip())`
     
-![Image](https://github.com/user-attachments/assets/6b0417df-531d-4dac-86cb-749636bda461)
+![Image](https://github.com/user-attachments/assets/515ced18-49f8-40a2-a796-9bf1b5af7394)
 
 
